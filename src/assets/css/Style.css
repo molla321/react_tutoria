@@ -1,0 +1,12 @@
+.active-item{
+    color: green;
+}
+
+.pandinh-item{
+    color: red;
+}
+
+li{
+    font-size: 25px;
+    font-family: 'Dancing Script', sans-serif;
+}
